@@ -7,3 +7,6 @@
 [submodule "Supabase-Basics"]
 	path = Supabase-Basics
 	url = https://github.com/yahya94812/Supabase-Basics.git
+[submodule "Azure-Basics"]
+	path = Azure-Basics
+	url = https://github.com/yahya94812/Azure-Basics.git
