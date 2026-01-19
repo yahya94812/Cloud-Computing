@@ -1,3 +1,9 @@
 [submodule "DevOps"]
 	path = DevOps
 	url = https://github.com/yahya94812/DevOps.git
+[submodule "Cloudflare-Basics"]
+	path = Cloudflare-Basics
+	url = https://github.com/yahya94812/Cloudflare-Basics.git
+[submodule "Supabase-Basics"]
+	path = Supabase-Basics
+	url = https://github.com/yahya94812/Supabase-Basics.git
